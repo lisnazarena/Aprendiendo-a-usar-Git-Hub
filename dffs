@@ -1,0 +1,49 @@
+[33mcommit c9d37f740f37687fa98b133a4226c6b5cf24edd8[m[33m ([m[1;36mHEAD -> [m[1;32mlogin[m[33m)[m
+Merge: b2ef000 895a894
+Author: Lis Alvarez <lisalvarez2001@gmail.com>
+Date:   Mon May 29 16:35:29 2023 -0300
+
+    Mi primer merge
+    Merge branch 'master' into login
+
+[33mcommit b2ef0000af4922dd733d9c2b11b4fdfe86ddbbc8[m
+Author: Lis Alvarez <lisalvarez2001@gmail.com>
+Date:   Mon May 29 16:23:46 2023 -0300
+
+    Cambio que hice sola en Login
+
+[33mcommit 895a894b1a6d87c8c9d5c07adfdac8488ace79a0[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Lis Alvarez <lisalvarez2001@gmail.com>
+Date:   Mon May 29 16:19:30 2023 -0300
+
+    Git 3 V2
+
+[33mcommit 2809a2e52d6e6eaf1e0d57ebf9c171e4445ac680[m
+Author: Lis Alvarez <lisalvarez2001@gmail.com>
+Date:   Mon May 29 15:42:37 2023 -0300
+
+    Login
+
+[33mcommit a92c886b456c669af99b5eb757d8349ffecacd86[m
+Author: Lis Alvarez <lisalvarez2001@gmail.com>
+Date:   Mon May 29 15:11:53 2023 -0300
+
+    Estees mi cuarto commit
+
+[33mcommit c854effab8222566fcae0c84e196a6fd17a5146b[m[33m ([m[1;33mtag: idem_16[m[33m)[m
+Author: Lis Alvarez <lisalvarez2001@gmail.com>
+Date:   Thu May 25 16:58:30 2023 -0300
+
+    añadiendo .gitignore
+
+[33mcommit 169d56b8cf0e888f69a9ce56c22786549a501147[m
+Author: Lis Alvarez <lisalvarez2001@gmail.com>
+Date:   Thu May 25 14:57:17 2023 -0300
+
+    cambios que hice solita
+
+[33mcommit 56bedae4af5f30ddb6b94c4eca9878d51369a268[m
+Author: Lis Alvarez <lisalvarez2001@gmail.com>
+Date:   Thu May 25 14:39:00 2023 -0300
+
+    Mi primer commit
