@@ -1,1 +1,1 @@
-print("hello git 3 ;) V login (jeje hice cagda)")
+print("hello git 3 ;) V3")
